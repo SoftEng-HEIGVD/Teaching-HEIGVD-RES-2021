@@ -16,9 +16,9 @@ This is where you will find lecture notes, slides and some of the examples prese
 | 3                 | Java IO - part 2 (+ time to work on lab) | Java IO (grade)                             |
 | 4                 | TCP programming                          | Protocol design exercise (no grade)         |
 | 5                 | **Test 1**                               | Protocol implementation exercise (no grade) |
-| 6                 | SMTP                                     | Protocol design & implementation (no grade) |
+| 6                 | SMTP                                     | **SMTP lab (grade, weight 1)**              |
 | **Eastern break** |                                          |                                             |
-| 7                 | SMTP lab                                 | **SMTP lab (grade, weight 1)**              |
+| 7                 | SMTP lab                                 | SMTP lab                                    |
 | 8                 | HTTP Protocol + intro to Docker          | Implement a minimal HTTP client             |
 | 9                 | HTTP Protocol + intro to Docker          | implement a minimal HTTP server             |
 | 10                | HTTP infrastructure                      | **HTTP infra lab (grade, weight 3)**        |
