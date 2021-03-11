@@ -6,6 +6,10 @@ This is where you will find lecture notes, slides and some of the examples prese
 ## Upcoming deadlines
 
 * Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. Procedure to submit your results will follow.
+* Before the lecture of **March 18th**, please install and setup
+  * Wireshark
+  * telnet (client)
+  * netcat (nc)
 
 ## Tentative schedule
 
@@ -61,9 +65,13 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 * Java IO, part 1
 * The Java IO Lab (file operations)
-* * [Slides](./slides/01-JavaIOs.pdf)
+* [Slides](./slides/01-JavaIOs.pdf)
 
 ## Week 3
+
+* Java IO, part 2
+* The Java IO Lab (file operations)
+* [Slides](./slides/01-JavaIOs.pdf)
 
 ## Week 4
 
@@ -73,7 +81,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 
 
-##Easter Break
+## Easter Break
 
 
 
