@@ -27,7 +27,7 @@ public class StreamingTimeServer {
 
   static final Logger LOG = Logger.getLogger(StreamingTimeServer.class.getName());
 
-  private final int TEST_DURATION = 15000;
+  private final int TEST_DURATION = 5000;
   private final int PAUSE_DURATION = 1000;
   private final int NUMBER_OF_ITERATIONS = TEST_DURATION / PAUSE_DURATION;
   private final int LISTEN_PORT = 2205;
@@ -35,7 +35,7 @@ public class StreamingTimeServer {
   /**
    * This method does the entire processing.
    */
-  private void start() throws IOException {
+  private void start() throws Exception {
     LOG.info("Starting server...");
 
     ServerSocket serverSocket = null;
@@ -43,7 +43,6 @@ public class StreamingTimeServer {
     BufferedReader reader = null;
     PrintWriter writer = null;
 
-    try {
       LOG.log(Level.INFO, "Creating a server socket and binding it on any of the available network interfaces and on port {0}", new Object[]{Integer.toString(LISTEN_PORT)});
       serverSocket = new ServerSocket(LISTEN_PORT);
       logServerSocketAddress(serverSocket);
@@ -70,7 +69,6 @@ public class StreamingTimeServer {
         writer.close();
         clientSocket.close();
       }
-    }
   }
 
   /**
@@ -99,7 +97,7 @@ public class StreamingTimeServer {
   /**
    * @param args the command line arguments
    */
-  public static void main(String[] args) throws IOException {
+  public static void main(String[] args) throws Exception {
     System.setProperty("java.util.logging.SimpleFormatter.format", "%5$s %n");
 
     StreamingTimeServer server = new StreamingTimeServer();
