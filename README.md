@@ -6,10 +6,11 @@ This is where you will find lecture notes, slides and some of the examples prese
 ## Upcoming deadlines
 
 * Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. Procedure to submit your results will follow.
-* Before the lecture of **March 18th**, please install and setup
-  * Wireshark
-  * telnet (client)
-  * netcat (nc)
+* Thursday **April 1st**: first written test.
+  * Will take place at school.
+  * RES-A students will be in room C23, RES-B students will be in room B23.
+  * Bring your laptop, fully equipped with wireshark, netcat, code samples and what you will have done in the next 2 lab sessions.
+* Friday March 19th and March 26th: you will work on an exercise to design, then to implement a simple application-level protocol. You will not get a grade for this lab. However, you need to do the work and to understand the content in order to have a smooth experience during the first test.
 
 ## Tentative schedule
 
@@ -35,16 +36,16 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Repo for the labs
 
-| Title          | Repo (new repos need to be created for 2021)                 | Webcasts                                                     | Graded |
-| -------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
-| Chill Protocol | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Chill | https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. |        |
-| Labo Java IO   | https://github.com/SoftEng-HEIGVD/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
-|                |                                                              |                                                              |        |
+| Title                    | Repo (new repos need to be created for 2021)                 | Webcasts                                                     | Graded |
+| ------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------ |
+| Chill Protocol           | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Chill | https://www.youtube.com/playlist?list=PLfKkysTy70QaN-uez0K4UpSpVUbt8ETpk (12 webcasts, ~2 hours). *We need to update this, in order to use GitHub Actions instead of TravisCI.* Also see [this article](https://medium.com/software-engineering-heig-vd/network-programming-res-prelude-eab67078955a) on Medium. | no     |
+| Labo Java IO             | https://github.com/SoftEng-HEIGVD/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          | yes    |
+| Protocol design exercise | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
+|                          |                                                              |                                                              |        |
 
 ## Resources
 
@@ -75,7 +76,25 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 4
 
+* Webcast for the lab: https://www.youtube.com/watch?v=95GwsyiSMXI (added to the RES 2021 playlist)
+* TCP programming, part 1
+* [Slides](./slides/02-TcpProgramming.pdf) and [extra slides](./slides/02-TcpProgramming.pdf).
+* Recommended activities for the lab:
+  * Start by reading the guidelines in the lab repo (https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design)
+  * Do the exercise in a pair
+  * Watch my solution
+  * Redo the exercise (make sure that you are able to reapply the process for another protocol)
+  * Read and run the TCP examples
+
 ## Week 5
+
+* TCP programming, part 2
+* [Slides](./slides/02-TcpProgramming.pdf) and [extra slides](./slides/02-TcpProgramming.pdf).
+* Recommended activities for the lab:
+  * Work in pairs
+  * One student implements the client
+  * One student implement the server
+  * Try to make the client and the server work together, troubleshoot and review each other code
 
 ## Week 6
 
