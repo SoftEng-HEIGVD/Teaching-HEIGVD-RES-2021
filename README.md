@@ -89,7 +89,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 ## Week 5
 
 * TCP programming, part 2
-* [Slides](./slides/02-TcpProgramming.pdf) and [extra slides](./slides/02-TcpProgramming.pdf).
+* [Slides](./slides/02-TcpProgramming.pdf) and [extra slides](./slides/02-TcpProgramming-example.pdf).
 * Recommended activities for the lab:
   * Work in pairs
   * One student implements the client
