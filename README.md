@@ -5,7 +5,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. For that, change the name of your PR bx replace `[WIP]` with `[TOREVIEW]`.
+* Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. For that, change the name of your PR by replace `[WIP]` with `[TOREVIEW]`.
 * Thursday **April 1st**: first written test.
   * Will take place at school.
   * RES-A students will be in room C23, RES-B students will be in room B23.
