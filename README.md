@@ -94,7 +94,7 @@ This is where you will find lecture notes, slides and some of the examples prese
   * One student implements the client
   * One student implement the server
   * Try to make the client and the server work together, troubleshoot and review each other code
-* This is the URL for an old lab (Roulette Protocol) that I talked about during the lecture. Once again, you do not have to do this lab, but it is interesting for you to read the code to understand the structure of a multi-threaded TCP server implementing a custom application-level protocol.
+* This is the [URL](https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2018-Labo-02) for an old lab (Roulette Protocol) that I talked about during the lecture. Once again, you do not have to do this lab, but it is interesting for you to read the code to understand the structure of a multi-threaded TCP server implementing a custom application-level protocol.
 
 ## Week 6
 
