@@ -5,12 +5,11 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Until Wednesday, **March 24th at 1PM** (sharp), you must have submitted the Java IO lab. For that, change the name of your PR by replacing `[WIP]` with `[TOREVIEW]`.
 * Thursday **April 1st**: first written test.
   * Will take place at school.
   * RES-A students will be in room C23, RES-B students will be in room B23.
   * Bring your laptop, fully equipped with wireshark, netcat, code samples and what you will have done in the next 2 lab sessions.
-* Friday March 19th and March 26th: you will work on an exercise to design, then to implement a simple application-level protocol. You will not get a grade for this lab. However, you need to do the work and to understand the content in order to have a smooth experience during the first test.
+* Friday, March 26th: you will work on an exercise to design, then to implement a simple application-level protocol. You will not get a grade for this lab. However, you need to do the work and to understand the content in order to have a smooth experience during the first test.
 
 ## Tentative schedule
 
@@ -95,6 +94,7 @@ This is where you will find lecture notes, slides and some of the examples prese
   * One student implements the client
   * One student implement the server
   * Try to make the client and the server work together, troubleshoot and review each other code
+* This is the URL for an old lab (Roulette Protocol) that I talked about during the lecture. Once again, you do not have to do this lab, but it is interesting for you to read the code to understand the structure of a multi-threaded TCP server implementing a custom application-level protocol.
 
 ## Week 6
 
