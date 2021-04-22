@@ -7,7 +7,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 * Sunday, **May 2nd** (23 PM): submit the SMTP lab results
   * You work in pairs
-  * You have 3 lab sessions to do the job, BUT we strongly advise you to give it a push and to do (mot of) it this week
+  * You have 3 lab sessions to do the job, BUT we strongly advise you to give it a push and to do (most of) it this week
   * Starting next week, we continue with HTTP and Docker, so it will be more comfortable if you put it behind you.
 * **Thursday, April 22nd and Thursday, April 29th**, I will not give a live lecture. A lot of video content was produced last year to introduce 2 key topics: HTTP and Docker. You will consume this content during these sessions and make sure that you.
 * Pay **very close attention** to these videos. Make sure that you run the experiments and practical steps yourself. Take notes. In the **next written test**, you will very likely have to solve challenges with Docker (on your machine). You must be able to read and write complete HTTP requests on paper and in a program.
