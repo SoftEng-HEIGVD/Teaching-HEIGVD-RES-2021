@@ -25,14 +25,14 @@ This is where you will find lecture notes, slides and some of the examples prese
 | **Eastern break** |                                                |                                             |
 | 7                 | SMTP                                           | SMTP lab                                    |
 | 8                 | **Web casts**: HTTP Protocol + intro to Docker | SMTP lab                                    |
-| 9                 | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
-| 10                | Ascencion                                      | HTTP infra lab                              |
-| 11                | **Live**: HTTP infrastructure                  | HTTP infra lab                              |
-| 12                | **Test 2**                                     | HTTP infra lab                              |
-| 13                | HTTP infra lab (grade)                         | **HTTP infra lab (grade, weight 3)**        |
-| 14                | **Live**: UDP programming                      | UDP Lab (orchestra)                         |
-| 15                | UDP Lab (orchestra)                            | UDP Lab (orchestra)                         |
-| 16                | Semester review & exam prep                    | **UDP Lab (orchestra) (grade, weight 1)**   |
+| 9 (29/04)         | **Web casts**: HTTP Protocol + intro to Docker | **SMTP lab (grade, weight 1)**              |
+| 10 (06/05)        | **Live**: HTTP infrastructure                  | HTTP infra lab                              |
+| 11 (13/05)        | Ascencion                                      | HTTP infra lab                              |
+| 12 (20/05)        | **Test 2**                                     | HTTP infra lab                              |
+| 13 (27/05)        | HTTP infra lab (grade)                         | **HTTP infra lab (grade, weight 3)**        |
+| 14 (03/06)        | **Live**: UDP programming                      | UDP Lab (orchestra)                         |
+| 15 (10/06)        | UDP Lab (orchestra)                            | UDP Lab (orchestra)                         |
+| 16 (17/06)        | Semester review & exam prep                    | **UDP Lab (orchestra) (grade, weight 1)**   |
 
 ## Repo for the labs
 
@@ -131,14 +131,14 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 10
 
-* No lecture this week, because of the Ascencion break
-* However, you are encouraged to start working on the HTTP Infrastructure lab. It is time consuming, but it is not hard. It is well guided (the webcasts guide you through the process). But, as always, be careful: everyone in the group actually does the work and understand the procedures. Otherwise, you will have a hard time at the exam.
-
-## Week 11
-
 * HTTP infrastructure
 * [Lecture notes](./lectures/05-Lecture5-WebInfrastructure.md) 
 * [Slides](./slides/05-WebInfrastructures.pdf) 
+
+## Week 11
+
+* No lecture this week, because of the Ascencion break
+* However, you are encouraged to continue working on the HTTP Infrastructure lab. It is time consuming, but it is not hard. It is well guided (the webcasts guide you through the process). But, as always, be careful: everyone in the group actually does the work and understand the procedures. Otherwise, you will have a hard time at the exam.
 
 ## Week 12
 
