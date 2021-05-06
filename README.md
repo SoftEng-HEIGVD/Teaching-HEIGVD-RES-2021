@@ -5,12 +5,9 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Sunday, **May 2nd** (23 PM): submit the SMTP lab results
+* Sunday, **May 30th** (23 PM): submit the Web Infrastructure lab results
   * You work in pairs
-  * You have 3 lab sessions to do the job, BUT we strongly advise you to give it a push and to do (most of) it this week
-  * Starting next week, we continue with HTTP and Docker, so it will be more comfortable if you put it behind you.
-* **Thursday, April 22nd and Thursday, April 29th**, I will not give a live lecture. A lot of video content was produced last year to introduce 2 key topics: HTTP and Docker. You will consume this content during these sessions and make sure that you.
-* Pay **very close attention** to these videos. Make sure that you run the experiments and practical steps yourself. Take notes. In the **next written test**, you will very likely have to solve challenges with Docker (on your machine). You must be able to read and write complete HTTP requests on paper and in a program.
+* **Thursday, May 20th**, second written test. HTTP protocol (slides, videos and lecture notes) and docker (videos). The "Web Infrastructures" slides and lecture notes are not part of the test.
 
 ## Tentative schedule
 
@@ -42,7 +39,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 | Labo Java IO             | https://github.com/SoftEng-HEIGVD/https-github.com-SoftEng-HEIGVD-Teaching-HEIGVD-RES-2021-Labo-Java-IO | 3 webcasts have been added to the RES 2021 playlist          | yes    |
 | Protocol design exercise | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
 | SMTP                     | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Labo-SMTP | 4 webcasts have been added to the RES 2021 playlist.         | yes    |
-|                          |                                                              |                                                              |        |
+| Web Infrastructure       | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Labo-HTTPInfra | 12 webcasts have been added to the RES 2021 playlist         | yes    |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
 |                          |                                                              |                                                              |        |
