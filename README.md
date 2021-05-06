@@ -7,7 +7,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 * Sunday, **May 30th** (23 PM): submit the Web Infrastructure lab results
   * You work in pairs
-* **Thursday, May 20th**, second written test. HTTP protocol (slides, videos and lecture notes) and docker (videos). The "Web Infrastructures" slides and lecture notes are not part of the test.
+* **Thursday, May 20th**, second written test. SMTP and HTTP protocols (slides, videos and lecture notes) and docker (videos). The "Web Infrastructures" slides and lecture notes are not part of the test.
 
 ## Tentative schedule
 
