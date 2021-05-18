@@ -53,7 +53,7 @@ In our test scenario, the user has typed `http://www.nodejs.org` in the browser 
 ```
 GET / HTTP/1.1 CRLF
 Host: www.nodejs.org CRLF
-User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:28.0) Gecko/20100101 Firefox/28.0
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.8; rv:28.0) Gecko/20100101 Firefox/28.0 CRLF
 Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8 CRLF
 Accept-Language: en-us,en;q=0.8,fr;q=0.5,fr-fr;q=0.3 CRLF
 Accept-Encoding: gzip, deflate CRLF
