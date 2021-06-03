@@ -5,11 +5,10 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Upcoming deadlines
 
-* Sunday, **May 30th** (23 PM): submit the Web Infrastructure lab results
+* Sunday, **June 20th** (23 PM): submit the UDP Orchestra lab
   * You work in pairs
-* **Thursday, May 20th**, second written test. SMTP and HTTP protocols (slides, videos and lecture notes) and docker (videos). The "Web Infrastructures" slides and lecture notes are not part of the test.
 
-## Tentative schedule
+## Schedule
 
 | Week              | Course                                         | Lab                                         |
 | ----------------- | ---------------------------------------------- | ------------------------------------------- |
@@ -40,9 +39,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 | Protocol design exercise | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Exercise-Protocol-Design | 1 webcast has been added to the RES 2021 playlist.           | no     |
 | SMTP                     | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Labo-SMTP | 4 webcasts have been added to the RES 2021 playlist.         | yes    |
 | Web Infrastructure       | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2021-Labo-HTTPInfra | 12 webcasts have been added to the RES 2021 playlist         | yes    |
-|                          |                                                              |                                                              |        |
-|                          |                                                              |                                                              |        |
-|                          |                                                              |                                                              |        |
+| Orchestra                | https://github.com/SoftEng-HEIGVD/Teaching-HEIGVD-RES-2020-Labo-Orchestra | Procedure de validation: https://youtu.be/yjDTJYgSE8M        | yes    |
 
 ## Resources
 
@@ -146,11 +143,20 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 ## Week 13
 
+* Work on Web Infra lab
+
 ## Week 14
+
+* UDP
+* Orchestra lab
 
 ## Week 15
 
+* Work on orchestra lab
+
 ## Week 16
+
+* Recap, Q&A before exam
 
 
 
