@@ -149,6 +149,7 @@ This is where you will find lecture notes, slides and some of the examples prese
 
 * UDP
 * Orchestra lab
+* UPD example (themometers): https://github.com/SoftEng-HEIGVD/Teaching-Docker-UDP-sensors
 
 ## Week 15
 
